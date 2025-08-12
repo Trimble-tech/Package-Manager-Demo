@@ -2,7 +2,7 @@
 1. Update the package cache from repos
 - **APT**: `sudo apt update`
 - **DNF**: `sudo dnf clean all && sudo dnf makecache`
-    - Note that DNF refreshes cache automatically, so this only needs to be done if you encounter issues or add a repository.
+    - *Note that DNF refreshes cache automatically, so this **only** needs to be done if you encounter issues or add a repository.*
 - **Pacman**: `sudo pacman -Sy`
 
 2. Install system updates
