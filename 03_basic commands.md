@@ -18,7 +18,7 @@
 4. Show information about packages
 - **APT**: `apt show PACKAGENAME`
 - **DNF**: `dnf info PACKAGENAME`
-- **Pacman**: `pacman -Qi PACKAGENAME`
+- **Pacman**: `sudo pacman -Su pkgfile && sudo pkgfile --update && sudo pkgfile -s PACKAGENAME`
 
 5. Install a package
 - **APT**: `sudo apt install PACKAGENAME`
