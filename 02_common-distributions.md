@@ -1,5 +1,7 @@
 # Distributions
 These are common, freely available distributions that can be used for these popular package managers.
+These distributions each have a different package manager and are a good start for exploration.
+
 ## Ubuntu
 * Runs APT/Aptitude Package Manager
 * Founded in 2004
