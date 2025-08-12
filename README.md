@@ -8,3 +8,5 @@ Each document is ordered *(01,02,03,etc.)* and goes through different topics.
 Feel free to either read through them in order or jump to your preferred one.
 
 Also, if you see something to add or fix feel free to contribute.
+
+Welcome to <https://github.com/Trimble-tech/Package-Manager-Demo>!
